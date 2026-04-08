@@ -1,0 +1,13 @@
+diff --git a/src/proctable.cpp b/src/proctable.cpp
+index 0e915d944e51feb22c23a8f1c99e8365cbae2c6a..f6d57caa4aef1e123c24b9c99a53807047a87aba 100644
+--- a/src/proctable.cpp
++++ b/src/proctable.cpp
+@@ -103,7 +103,7 @@ cb_tree_button_pressed (GtkGestureClick*,
+     gtk_tree_selection_select_path (selection, path);
+   gtk_tree_path_free (path);
+ 
+-  GdkRectangle rect = { x, y, 1, 1 };
++  GdkRectangle rect = { (gint)x, (gint)y, 1, 1 };
+ 
+   gtk_popover_set_pointing_to (GTK_POPOVER (app->proc_popover_menu), &rect);
+   gtk_popover_popup (GTK_POPOVER (app->proc_popover_menu));

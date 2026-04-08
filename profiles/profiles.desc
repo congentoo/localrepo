@@ -1,0 +1,15 @@
+# Copyright 2003-2024 Gentoo Authors
+# Distributed under the terms of the GNU General Public License v2
+
+#############################################
+# This is a list of valid profiles for each architecture.  This file is used by
+# repoman when doing a repoman scan or repoman full.
+# DO NOT ADD PROFILES WITH A "die" or "exit" IN THEM OR IT KILLS REPOMAN
+#
+#layout:
+#arch		profile_directory						status
+
+# AMD64 Profiles
+# @MAINTAINER: Ivan
+
+amd64		local/linux/amd64/23.0/split-usr/llvm-hardened-desktop-gnome				dev
