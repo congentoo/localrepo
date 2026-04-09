@@ -1,0 +1,28 @@
+From: Ivan Anishchuk <ivan@ivananishchuk.net>
+Subject: [PATCH] fix AttributeError: portage.versions.cmp_sort_key
+
+Recent Portage releases (>= ~3.0.77) removed cmp_sort_key from the
+portage.versions module; the function still exists under portage.util
+which is where the rest of Portage now imports it from. Update the
+single call site in overlint so it stops crashing with:
+
+  AttributeError: module 'portage.versions' has no attribute 'cmp_sort_key'.
+  Did you mean: 'cpv_sort_key'?
+
+cpv_sort_key is not a drop-in replacement here because overlint passes
+bare version strings (e.g. "1.0.0") to sorted_versions(), not full cpvs,
+so cpv_sort_key's catpkgsplit-based comparator would fall back to plain
+string comparison. portage.util.cmp_sort_key(portage.vercmp) preserves
+the original behaviour.
+
+--- a/overlint/cli.py
++++ b/overlint/cli.py
+@@ -126,7 +126,7 @@ def detect_ebuild_changes(overlay_path, category_package, original_overlay_path
+
+
+ def sorted_versions(versions):
+-	return sorted(versions, key=portage.versions.cmp_sort_key(portage.vercmp))
++	return sorted(versions, key=portage.util.cmp_sort_key(portage.vercmp))
+
+
+ def dump_tree(tree, title):
