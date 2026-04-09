@@ -7,10 +7,10 @@
 <!DOCTYPE html>
 <html
   lang="en"
-  
+
   data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"
   data-a11y-animated-images="system" data-a11y-link-underlines="true"
-  
+
   >
 
 
@@ -24,7 +24,7 @@
   <link rel="preconnect" href="https://github.githubassets.com" crossorigin>
   <link rel="preconnect" href="https://avatars.githubusercontent.com">
 
-  
+
 
 
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light-0cfd1fd8509e.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-d782f59290e2.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-f9fbc4b99a77.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-cff1c9b27b1a.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-70097f75aec1.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-c2f0d49bdcd9.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-4747d7bc0bc4.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-d3f6a61c91c8.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-a188d53f44bb.css" />
@@ -36,7 +36,7 @@
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/repository-d031bcc14e1b.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/code-9e1913b328be.css" />
 
-  
+
 
 
   <script type="application/json" id="client-env">{"locale":"en","featureFlags":["alive_longer_retries","bypass_copilot_indexing_quota","copilot_new_references_ui","copilot_beta_features_opt_in","copilot_chat_retry_on_error","copilot_chat_persist_submitted_input","copilot_conversational_ux_history_refs","copilot_editor_upsells","copilot_free_limited_user","copilot_implicit_context","copilot_no_floating_button","copilot_smell_icebreaker_ux","experimentation_azure_variant_endpoint","failbot_handle_non_errors","geojson_azure_maps","ghost_pilot_confidence_truncation_25","ghost_pilot_confidence_truncation_40","hovercard_accessibility","issues_react_new_timeline","issues_react_avatar_refactor","issues_react_remove_placeholders","issues_react_blur_item_picker_on_close","issues_react_use_react_router_in_index","marketing_pages_search_explore_provider","react_keyboard_shortcuts_dialog","remove_child_patch","sample_network_conn_type","site_metered_billing_update","site_copilot_free","lifecycle_label_name_updates"]}</script>
@@ -72,7 +72,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-cfcd9f4f0f23.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_catalyst_lib_inde-dbbea9-26cce2010167.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/code-menu-b5f092ec4b30.js"></script>
-  
+
   <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/primer-react-753dc87b1e29.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-core-accb67f1350f.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-2131e17288a8.js"></script>
@@ -117,7 +117,7 @@
   <meta name="route-controller" content="blob" data-turbo-transient>
   <meta name="route-action" content="show" data-turbo-transient>
 
-    
+
   <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
@@ -128,7 +128,7 @@
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree,copilot" data-turbo-transient="true" />
-  
+
 
   <meta name="selected-link" value="repo_source" data-turbo-transient>
   <link rel="assets" href="https://github.githubassets.com/">
@@ -139,18 +139,18 @@
 
   <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-turbo-transient="true" />
 
-  
+
 
 
 
 
     <meta name="user-login" content="">
 
-  
+
 
     <meta name="viewport" content="width=device-width">
 
-    
+
 
       <meta name="description" content="[MIRROR] Official Gentoo ebuild repository. Contribute to gentoo/gentoo development by creating an account on GitHub.">
 
@@ -162,7 +162,7 @@
 
       <meta name="twitter:image" content="https://opengraph.githubassets.com/615ec0e9b2c6294f4436c01c94dccac47544cc2ad2535360b2854d0c833ed423/gentoo/gentoo" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="gentoo/mail-client/nmh/metadata.xml at 74e93c23a66b42b925e1dd3abea0bf1cb17e4230 · gentoo/gentoo" /><meta name="twitter:description" content="[MIRROR] Official Gentoo ebuild repository. Contribute to gentoo/gentoo development by creating an account on GitHub." />
   <meta property="og:image" content="https://opengraph.githubassets.com/615ec0e9b2c6294f4436c01c94dccac47544cc2ad2535360b2854d0c833ed423/gentoo/gentoo" /><meta property="og:image:alt" content="[MIRROR] Official Gentoo ebuild repository. Contribute to gentoo/gentoo development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="gentoo/mail-client/nmh/metadata.xml at 74e93c23a66b42b925e1dd3abea0bf1cb17e4230 · gentoo/gentoo" /><meta property="og:url" content="https://github.com/gentoo/gentoo/blob/74e93c23a66b42b925e1dd3abea0bf1cb17e4230/mail-client/nmh/metadata.xml" /><meta property="og:description" content="[MIRROR] Official Gentoo ebuild repository. Contribute to gentoo/gentoo development by creating an account on GitHub." />
-  
+
 
 
 
@@ -191,7 +191,7 @@
 
 
 
-    
+
 
     <meta name="turbo-body-classes" content="logged-out env-production page-responsive">
 
@@ -214,7 +214,7 @@
 
   <body class="logged-out env-production page-responsive" style="word-wrap: break-word;">
     <div data-turbo-body class="logged-out env-production page-responsive" style="word-wrap: break-word;">
-      
+
 
 
     <div class="position-relative header-wrapper js-header-wrapper ">
@@ -222,8 +222,8 @@
 
       <span data-view-component="true" class="progress-pjax-loader Progress position-fixed width-full">
     <span style="width: 0%;" data-view-component="true" class="Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis"></span>
-</span>      
-      
+</span>
+
       <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_ui-commands_ui-commands_ts-df3b47d86af0.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/keyboard-shortcuts-dialog-958cae8ecd6c.js"></script>
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.797c8ec006b327590422.module.css" />
@@ -233,7 +233,7 @@
   data-ssr="false"
   data-attempted-ssr="false"
 >
-  
+
   <script type="application/json" data-target="react-partial.embeddedData">{"props":{"docsUrl":"https://docs.github.com/get-started/accessibility/keyboard-shortcuts"}}</script>
   <div data-target="react-partial.reactRoot"></div>
 </react-partial>
@@ -241,11 +241,11 @@
 
 
 
-      
 
-          
 
-              
+
+
+
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-94fd67-73b675cf164a.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/sessions-5d6426bbf16a.js"></script>
 <header class="HeaderMktg header-logged-out js-details-container js-header Details f4 py-3" role="banner" data-is-top="true" data-color-mode=light data-light-theme=light data-dark-theme=dark>
@@ -313,7 +313,7 @@
         Write better code with AI
       </div>
 
-    
+
 </a></li>
 
                     <li>
@@ -326,7 +326,7 @@
         Find and fix vulnerabilities
       </div>
 
-    
+
 </a></li>
 
                     <li>
@@ -339,7 +339,7 @@
         Automate any workflow
       </div>
 
-    
+
 </a></li>
 
                     <li>
@@ -352,7 +352,7 @@
         Instant dev environments
       </div>
 
-    
+
 </a></li>
 
                     <li>
@@ -365,7 +365,7 @@
         Plan and track work
       </div>
 
-    
+
 </a></li>
 
                     <li>
@@ -378,7 +378,7 @@
         Manage code changes
       </div>
 
-    
+
 </a></li>
 
                     <li>
@@ -391,7 +391,7 @@
         Collaborate outside of code
       </div>
 
-    
+
 </a></li>
 
                     <li>
@@ -404,7 +404,7 @@
         Find more, search less
       </div>
 
-    
+
 </a></li>
 
                 </ul>
@@ -418,7 +418,7 @@
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;all_features&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;all_features_link_product_navbar&quot;}" href="https://github.com/features">
       All features
 
-    
+
 </a></li>
 
                     <li>
@@ -470,21 +470,21 @@
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;enterprises&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;enterprises_link_solutions_navbar&quot;}" href="https://github.com/enterprise">
       Enterprises
 
-    
+
 </a></li>
 
                     <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;small_and_medium_teams&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;small_and_medium_teams_link_solutions_navbar&quot;}" href="https://github.com/team">
       Small and medium teams
 
-    
+
 </a></li>
 
                     <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;startups&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;startups_link_solutions_navbar&quot;}" href="https://github.com/enterprise/startups">
       Startups
 
-    
+
 </a></li>
 
                 </ul>
@@ -496,28 +496,28 @@
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;devsecops&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;devsecops_link_solutions_navbar&quot;}" href="/solutions/use-case/devsecops">
       DevSecOps
 
-    
+
 </a></li>
 
                     <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;devops&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;devops_link_solutions_navbar&quot;}" href="/solutions/use-case/devops">
       DevOps
 
-    
+
 </a></li>
 
                     <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;ci_cd&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;ci_cd_link_solutions_navbar&quot;}" href="/solutions/use-case/ci-cd">
       CI/CD
 
-    
+
 </a></li>
 
                     <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;view_all_use_cases&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;view_all_use_cases_link_solutions_navbar&quot;}" href="/solutions/use-case">
       View all use cases
 
-    
+
 </a></li>
 
                 </ul>
@@ -531,35 +531,35 @@
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;healthcare&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;healthcare_link_solutions_navbar&quot;}" href="/solutions/industry/healthcare">
       Healthcare
 
-    
+
 </a></li>
 
                     <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;financial_services&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;financial_services_link_solutions_navbar&quot;}" href="/solutions/industry/financial-services">
       Financial services
 
-    
+
 </a></li>
 
                     <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;manufacturing&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;manufacturing_link_solutions_navbar&quot;}" href="/solutions/industry/manufacturing">
       Manufacturing
 
-    
+
 </a></li>
 
                     <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;government&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;government_link_solutions_navbar&quot;}" href="/solutions/industry/government">
       Government
 
-    
+
 </a></li>
 
                     <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;view_all_industries&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;view_all_industries_link_solutions_navbar&quot;}" href="/solutions/industry">
       View all industries
 
-    
+
 </a></li>
 
                 </ul>
@@ -591,35 +591,35 @@
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;ai&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;ai_link_resources_navbar&quot;}" href="/resources/articles/ai">
       AI
 
-    
+
 </a></li>
 
                     <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;devops&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;devops_link_resources_navbar&quot;}" href="/resources/articles/devops">
       DevOps
 
-    
+
 </a></li>
 
                     <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;security&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;security_link_resources_navbar&quot;}" href="/resources/articles/security">
       Security
 
-    
+
 </a></li>
 
                     <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;software_development&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;software_development_link_resources_navbar&quot;}" href="/resources/articles/software-development">
       Software Development
 
-    
+
 </a></li>
 
                     <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;view_all&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;view_all_link_resources_navbar&quot;}" href="/resources/articles">
       View all
 
-    
+
 </a></li>
 
                 </ul>
@@ -651,7 +651,7 @@
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;customer_stories&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;customer_stories_link_resources_navbar&quot;}" href="https://github.com/customer-stories">
       Customer Stories
 
-    
+
 </a></li>
 
                     <li>
@@ -667,7 +667,7 @@
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;executive_insights&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;executive_insights_link_resources_navbar&quot;}" href="https://github.com/solutions/executive-insights">
       Executive Insights
 
-    
+
 </a></li>
 
                 </ul>
@@ -690,13 +690,13 @@
                 <ul class="list-style-none f5" >
                     <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;github_sponsors&quot;,&quot;context&quot;:&quot;open_source&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;github_sponsors_link_open_source_navbar&quot;}" href="/sponsors">
-      
+
       <div>
         <div class="color-fg-default h4">GitHub Sponsors</div>
         Fund open source developers
       </div>
 
-    
+
 </a></li>
 
                 </ul>
@@ -705,13 +705,13 @@
                 <ul class="list-style-none f5" >
                     <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;the_readme_project&quot;,&quot;context&quot;:&quot;open_source&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;the_readme_project_link_open_source_navbar&quot;}" href="https://github.com/readme">
-      
+
       <div>
         <div class="color-fg-default h4">The ReadME Project</div>
         GitHub community articles
       </div>
 
-    
+
 </a></li>
 
                 </ul>
@@ -723,21 +723,21 @@
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;topics&quot;,&quot;context&quot;:&quot;open_source&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;topics_link_open_source_navbar&quot;}" href="https://github.com/topics">
       Topics
 
-    
+
 </a></li>
 
                     <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;trending&quot;,&quot;context&quot;:&quot;open_source&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;trending_link_open_source_navbar&quot;}" href="https://github.com/trending">
       Trending
 
-    
+
 </a></li>
 
                     <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;collections&quot;,&quot;context&quot;:&quot;open_source&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;collections_link_open_source_navbar&quot;}" href="https://github.com/collections">
       Collections
 
-    
+
 </a></li>
 
                 </ul>
@@ -768,7 +768,7 @@
         AI-powered developer platform
       </div>
 
-    
+
 </a></li>
 
                 </ul>
@@ -786,7 +786,7 @@
         Enterprise-grade security features
       </div>
 
-    
+
 </a></li>
 
                     <li>
@@ -799,7 +799,7 @@
         Enterprise-grade AI features
       </div>
 
-    
+
 </a></li>
 
                     <li>
@@ -812,7 +812,7 @@
         Enterprise-grade 24/7 support
       </div>
 
-    
+
 </a></li>
 
                 </ul>
@@ -830,7 +830,7 @@
           </nav>
 
         <div class="d-flex flex-column flex-lg-row width-full flex-justify-end flex-lg-items-center text-center mt-3 mt-lg-0 text-lg-left ml-lg-3">
-                
+
 
 
 <qbsearch-input class="search-input" data-scope="repo:gentoo/gentoo" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="Edi3_lOeTWlpWZkJrPWkMjF5PCVn-DFjT4pVflx4HcsyHu2-kzichkncDNTjruWQrt4i5wjH-28AfrPx3plFlQ" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="gentoo/gentoo" data-current-org="gentoo" data-current-owner="" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
@@ -864,12 +864,12 @@
 
     <input type="hidden" name="type" class="js-site-search-type-field">
 
-    
+
 <div class="Overlay--hidden " data-modal-dialog-overlay>
   <modal-dialog data-action="close:qbsearch-input#handleClose cancel:qbsearch-input#handleClose" data-target="qbsearch-input.searchSuggestionsDialog" role="dialog" id="search-suggestions-dialog" aria-modal="true" aria-labelledby="search-suggestions-dialog-header" data-view-component="true" class="Overlay Overlay--width-large Overlay--height-auto">
       <h1 id="search-suggestions-dialog-header" class="sr-only">Search code, repositories, users, issues, pull requests...</h1>
     <div class="Overlay-body Overlay-body--paddingNone">
-      
+
           <div data-view-component="true">        <div class="search-suggestions position-fixed width-full color-shadow-large border color-fg-default color-bg-default overflow-hidden d-flex flex-column query-builder-container"
           style="border-radius: 12px;"
           data-target="qbsearch-input.queryBuilderContainer"
@@ -1156,7 +1156,7 @@
   </div>
   <div data-action="click:qbsearch-input#retract" class="dark-backdrop position-fixed" hidden data-target="qbsearch-input.darkBackdrop"></div>
   <div class="color-fg-default">
-    
+
 <dialog-helper>
   <dialog data-target="qbsearch-input.feedbackDialog" data-action="close:qbsearch-input#handleDialogClose cancel:qbsearch-input#handleDialogClose" id="feedback-dialog" aria-modal="true" aria-labelledby="feedback-dialog-title" aria-describedby="feedback-dialog-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-medium Overlay--motion-scaleFade Overlay--disableScroll">
     <div data-view-component="true" class="Overlay-header">
@@ -1165,7 +1165,7 @@
       <h1 class="Overlay-title " id="feedback-dialog-title">
         Provide feedback
       </h1>
-        
+
     </div>
     <div class="Overlay-actionWrap">
       <button data-close-dialog-id="feedback-dialog" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
@@ -1173,7 +1173,7 @@
 </svg></button>
     </div>
   </div>
-  
+
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
         <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="gnQwxmkRSBoZELNWOSO6OdFhYQcBEQlHUIcyc657jTEQQ0p4yhWLi7ko11b7FIxwsMUC3wFFUFiecjlsEBorpw==" />
@@ -1191,7 +1191,7 @@
 </dialog></dialog-helper>
 
     <custom-scopes data-target="qbsearch-input.customScopesManager">
-    
+
 <dialog-helper>
   <dialog data-target="custom-scopes.customScopesModalDialog" data-action="close:qbsearch-input#handleDialogClose cancel:qbsearch-input#handleDialogClose" id="custom-scopes-dialog" aria-modal="true" aria-labelledby="custom-scopes-dialog-title" aria-describedby="custom-scopes-dialog-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-medium Overlay--motion-scaleFade Overlay--disableScroll">
     <div data-view-component="true" class="Overlay-header Overlay-header--divided">
@@ -1208,7 +1208,7 @@
 </svg></button>
     </div>
   </div>
-  
+
 </div>
       <scrollable-region data-labelled-by="custom-scopes-dialog-title">
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
@@ -1298,7 +1298,7 @@
 </header>
 
       <div hidden="hidden" data-view-component="true" class="js-stale-session-flash stale-session-flash flash flash-warn flash-full">
-  
+
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
     <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
@@ -1312,7 +1312,7 @@
 </button><tool-tip id="tooltip-2a9ffbc8-e248-4553-8a87-ae6472f34f67" for="icon-button-24bfde31-a049-4c8b-a619-1a2e2f1daf62" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
-  
+
 </div>
     </div>
 
@@ -1331,7 +1331,7 @@
 
 
   <template class="js-flash-template">
-    
+
 <div class="flash flash-full   {{ className }}">
   <div >
     <button autofocus class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
@@ -1340,7 +1340,7 @@
 </svg>
     </button>
     <div aria-atomic="true" role="alert" class="js-flash-alert">
-      
+
       <div>{{ message }}</div>
 
     </div>
@@ -1350,7 +1350,7 @@
 </div>
 
 
-    
+
 
 
 
@@ -1366,29 +1366,29 @@
   >
         <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
     <main id="js-repo-pjax-container" >
-      
-      
-    
-
-    
 
 
 
 
 
 
-  
+
+
+
+
+
+
   <div id="repository-container-header"  class="pt-3 hide-full-screen" style="background-color: var(--page-header-bgColor, var(--color-page-header-bg));" data-turbo-replace>
 
       <div class="d-flex flex-nowrap flex-justify-end mb-3  px-3 px-lg-5" style="gap: 1rem;">
 
         <div class="flex-auto min-width-0 width-fit">
-            
+
   <div class=" d-flex flex-wrap flex-items-center wb-break-word f3 text-normal">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo color-fg-muted mr-2">
     <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
 </svg>
-    
+
     <span class="author flex-self-stretch" itemprop="author">
       <a class="url fn" rel="author" data-hovercard-type="organization" data-hovercard-url="/orgs/gentoo/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/gentoo">
         gentoo
@@ -1406,8 +1406,8 @@
 
         <div id="repository-details-container" class="flex-shrink-0" data-turbo-replace style="max-width: 70%;">
             <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
-    
-      
+
+
 
   <li>
             <a href="/login?return_to=%2Fgentoo%2Fgentoo" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/gentoo/gentoo/blob/74e93c23a66b42b925e1dd3abea0bf1cb17e4230/mail-client/nmh/metadata.xml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d0eb37670245e361fdd124ecaf6c5e6d43ac4bec0a161d9775b1bd3a188ebe8e" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
@@ -1449,7 +1449,7 @@
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
   <a id="code-tab" href="/gentoo/gentoo" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments repo_attestations /gentoo/gentoo" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
-    
+
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
@@ -1457,11 +1457,11 @@
           <span id="code-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
 
-    
+
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
   <a id="pull-requests-tab" href="/gentoo/gentoo/pulls" data-tab-item="i1pull-requests-tab" data-selected-links="repo_pulls checks /gentoo/gentoo/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
+
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
 </svg>
@@ -1469,11 +1469,11 @@
           <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="847" data-view-component="true" class="Counter">847</span>
 
 
-    
+
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
   <a id="actions-tab" href="/gentoo/gentoo/actions" data-tab-item="i2actions-tab" data-selected-links="repo_actions /gentoo/gentoo/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
+
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
 </svg>
@@ -1481,11 +1481,11 @@
           <span id="actions-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
 
-    
+
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
   <a id="projects-tab" href="/gentoo/gentoo/projects" data-tab-item="i3projects-tab" data-selected-links="repo_projects new_repo_project repo_project /gentoo/gentoo/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
+
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
 </svg>
@@ -1493,22 +1493,22 @@
           <span id="projects-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
 
 
-    
+
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
   <a id="security-tab" href="/gentoo/gentoo/security" data-tab-item="i4security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /gentoo/gentoo/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
+
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
         <span data-content="Security">Security</span>
           <include-fragment src="/gentoo/gentoo/security/overall-count" accept="text/fragment+html"></include-fragment>
 
-    
+
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
   <a id="insights-tab" href="/gentoo/gentoo/pulse" data-tab-item="i5insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /gentoo/gentoo/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
+
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
 </svg>
@@ -1516,7 +1516,7 @@
           <span id="insights-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
 
-    
+
 </a></li>
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
@@ -1529,131 +1529,131 @@
 
 <anchored-position data-target="action-menu.overlay" id="action-menu-2df7578c-15e0-4a0a-a98d-fa096723a3c6-overlay" anchor="action-menu-2df7578c-15e0-4a0a-a98d-fa096723a3c6-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
-    
+
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
     <ul aria-labelledby="action-menu-2df7578c-15e0-4a0a-a98d-fa096723a3c6-button" id="action-menu-2df7578c-15e0-4a0a-a98d-fa096723a3c6-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-    
-    
+
+
     <a tabindex="-1" id="item-6e879680-39b7-4ea0-8c5d-b73d60cbf7c8" href="/gentoo/gentoo" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </span>
-      
+
         <span data-view-component="true" class="ActionListItem-label">
           Code
-</span>      
+</span>
 </a>
-  
+
 </li>
         <li hidden="hidden" data-menu-item="i1pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-    
-    
+
+
     <a tabindex="-1" id="item-5d8cfb0e-5b89-4e88-bc37-f26de870f905" href="/gentoo/gentoo/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
 </svg>
         </span>
-      
+
         <span data-view-component="true" class="ActionListItem-label">
           Pull requests
-</span>      
+</span>
 </a>
-  
+
 </li>
         <li hidden="hidden" data-menu-item="i2actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-    
-    
+
+
     <a tabindex="-1" id="item-accb3438-954a-41dc-9882-ad3f4df5bdd7" href="/gentoo/gentoo/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
 </svg>
         </span>
-      
+
         <span data-view-component="true" class="ActionListItem-label">
           Actions
-</span>      
+</span>
 </a>
-  
+
 </li>
         <li hidden="hidden" data-menu-item="i3projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-    
-    
+
+
     <a tabindex="-1" id="item-196e4274-c81d-4b97-b490-4f4730ea5967" href="/gentoo/gentoo/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
 </svg>
         </span>
-      
+
         <span data-view-component="true" class="ActionListItem-label">
           Projects
-</span>      
+</span>
 </a>
-  
+
 </li>
         <li hidden="hidden" data-menu-item="i4security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-    
-    
+
+
     <a tabindex="-1" id="item-868d3c1a-20bf-4d68-bfd1-f22cdf73b925" href="/gentoo/gentoo/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
         </span>
-      
+
         <span data-view-component="true" class="ActionListItem-label">
           Security
-</span>      
+</span>
 </a>
-  
+
 </li>
         <li hidden="hidden" data-menu-item="i5insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-    
-    
+
+
     <a tabindex="-1" id="item-de39551f-b3bf-42fd-905a-6d04b220b6e0" href="/gentoo/gentoo/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
 </svg>
         </span>
-      
+
         <span data-view-component="true" class="ActionListItem-label">
           Insights
-</span>      
+</span>
 </a>
-  
+
 </li>
-</ul>    
+</ul>
 </div></action-list>
 
 
 </div>
-      
+
 </div></anchored-position>  </focus-group>
 </action-menu></div>
 </nav>
 
   </div>
 
-  
+
 
 
 
 <turbo-frame id="repo-content-turbo-frame" target="_top" data-turbo-action="advance" class="">
     <div id="repo-content-pjax-container" class="repository-content " >
-    
 
 
 
-    
-      
-    
+
+
+
+
 
 
 
@@ -1671,7 +1671,7 @@
   data-lazy="false"
   data-alternate="false"
 >
-  
+
   <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"mail-client/nmh":{"items":[{"name":"files","path":"mail-client/nmh/files","contentType":"directory"},{"name":"Manifest","path":"mail-client/nmh/Manifest","contentType":"file"},{"name":"metadata.xml","path":"mail-client/nmh/metadata.xml","contentType":"file"},{"name":"nmh-1.6.ebuild","path":"mail-client/nmh/nmh-1.6.ebuild","contentType":"file"}],"totalCount":4},"mail-client":{"items":[{"name":"alot","path":"mail-client/alot","contentType":"directory"},{"name":"alpine","path":"mail-client/alpine","contentType":"directory"},{"name":"balsa","path":"mail-client/balsa","contentType":"directory"},{"name":"biabam","path":"mail-client/biabam","contentType":"directory"},{"name":"claws-mail","path":"mail-client/claws-mail","contentType":"directory"},{"name":"clawsker","path":"mail-client/clawsker","contentType":"directory"},{"name":"cone","path":"mail-client/cone","contentType":"directory"},{"name":"drac","path":"mail-client/drac","contentType":"directory"},{"name":"etpan-ng","path":"mail-client/etpan-ng","contentType":"directory"},{"name":"evolution","path":"mail-client/evolution","contentType":"directory"},{"name":"geary","path":"mail-client/geary","contentType":"directory"},{"name":"hap","path":"mail-client/hap","contentType":"directory"},{"name":"kube","path":"mail-client/kube","contentType":"directory"},{"name":"mail-notification","path":"mail-client/mail-notification","contentType":"directory"},{"name":"mailx-support","path":"mail-client/mailx-support","contentType":"directory"},{"name":"mailx","path":"mail-client/mailx","contentType":"directory"},{"name":"mutt","path":"mail-client/mutt","contentType":"directory"},{"name":"nail","path":"mail-client/nail","contentType":"directory"},{"name":"neomutt","path":"mail-client/neomutt","contentType":"directory"},{"name":"nmh","path":"mail-client/nmh","contentType":"directory"},{"name":"novell-groupwise-client","path":"mail-client/novell-groupwise-client","contentType":"directory"},{"name":"pinepgp","path":"mail-client/pinepgp","contentType":"directory"},{"name":"roundcube","path":"mail-client/roundcube","contentType":"directory"},{"name":"sylpheed","path":"mail-client/sylpheed","contentType":"directory"},{"name":"thunderbird-bin","path":"mail-client/thunderbird-bin","contentType":"directory"},{"name":"thunderbird","path":"mail-client/thunderbird","contentType":"directory"},{"name":"trojita","path":"mail-client/trojita","contentType":"directory"},{"name":"metadata.xml","path":"mail-client/metadata.xml","contentType":"file"}],"totalCount":28},"":{"items":[{"name":"app-accessibility","path":"app-accessibility","contentType":"directory"},{"name":"app-admin","path":"app-admin","contentType":"directory"},{"name":"app-antivirus","path":"app-antivirus","contentType":"directory"},{"name":"app-arch","path":"app-arch","contentType":"directory"},{"name":"app-backup","path":"app-backup","contentType":"directory"},{"name":"app-benchmarks","path":"app-benchmarks","contentType":"directory"},{"name":"app-cdr","path":"app-cdr","contentType":"directory"},{"name":"app-crypt","path":"app-crypt","contentType":"directory"},{"name":"app-dicts","path":"app-dicts","contentType":"directory"},{"name":"app-doc","path":"app-doc","contentType":"directory"},{"name":"app-editors","path":"app-editors","contentType":"directory"},{"name":"app-emacs","path":"app-emacs","contentType":"directory"},{"name":"app-emulation","path":"app-emulation","contentType":"directory"},{"name":"app-eselect","path":"app-eselect","contentType":"directory"},{"name":"app-forensics","path":"app-forensics","contentType":"directory"},{"name":"app-i18n","path":"app-i18n","contentType":"directory"},{"name":"app-laptop","path":"app-laptop","contentType":"directory"},{"name":"app-leechcraft","path":"app-leechcraft","contentType":"directory"},{"name":"app-misc","path":"app-misc","contentType":"directory"},{"name":"app-mobilephone","path":"app-mobilephone","contentType":"directory"},{"name":"app-office","path":"app-office","contentType":"directory"},{"name":"app-officeext","path":"app-officeext","contentType":"directory"},{"name":"app-pda","path":"app-pda","contentType":"directory"},{"name":"app-portage","path":"app-portage","contentType":"directory"},{"name":"app-shells","path":"app-shells","contentType":"directory"},{"name":"app-text","path":"app-text","contentType":"directory"},{"name":"app-vim","path":"app-vim","contentType":"directory"},{"name":"app-xemacs","path":"app-xemacs","contentType":"directory"},{"name":"dev-ada","path":"dev-ada","contentType":"directory"},{"name":"dev-cpp","path":"dev-cpp","contentType":"directory"},{"name":"dev-db","path":"dev-db","contentType":"directory"},{"name":"dev-dotnet","path":"dev-dotnet","contentType":"directory"},{"name":"dev-embedded","path":"dev-embedded","contentType":"directory"},{"name":"dev-erlang","path":"dev-erlang","contentType":"directory"},{"name":"dev-games","path":"dev-games","contentType":"directory"},{"name":"dev-go","path":"dev-go","contentType":"directory"},{"name":"dev-haskell","path":"dev-haskell","contentType":"directory"},{"name":"dev-java","path":"dev-java","contentType":"directory"},{"name":"dev-lang","path":"dev-lang","contentType":"directory"},{"name":"dev-libs","path":"dev-libs","contentType":"directory"},{"name":"dev-lisp","path":"dev-lisp","contentType":"directory"},{"name":"dev-lua","path":"dev-lua","contentType":"directory"},{"name":"dev-ml","path":"dev-ml","contentType":"directory"},{"name":"dev-perl","path":"dev-perl","contentType":"directory"},{"name":"dev-php","path":"dev-php","contentType":"directory"},{"name":"dev-python","path":"dev-python","contentType":"directory"},{"name":"dev-qt","path":"dev-qt","contentType":"directory"},{"name":"dev-ros","path":"dev-ros","contentType":"directory"},{"name":"dev-ruby","path":"dev-ruby","contentType":"directory"},{"name":"dev-scheme","path":"dev-scheme","contentType":"directory"},{"name":"dev-tcltk","path":"dev-tcltk","contentType":"directory"},{"name":"dev-tex","path":"dev-tex","contentType":"directory"},{"name":"dev-texlive","path":"dev-texlive","contentType":"directory"},{"name":"dev-util","path":"dev-util","contentType":"directory"},{"name":"dev-vcs","path":"dev-vcs","contentType":"directory"},{"name":"eclass","path":"eclass","contentType":"directory"},{"name":"games-action","path":"games-action","contentType":"directory"},{"name":"games-arcade","path":"games-arcade","contentType":"directory"},{"name":"games-board","path":"games-board","contentType":"directory"},{"name":"games-emulation","path":"games-emulation","contentType":"directory"},{"name":"games-engines","path":"games-engines","contentType":"directory"},{"name":"games-fps","path":"games-fps","contentType":"directory"},{"name":"games-kids","path":"games-kids","contentType":"directory"},{"name":"games-misc","path":"games-misc","contentType":"directory"},{"name":"games-mud","path":"games-mud","contentType":"directory"},{"name":"games-puzzle","path":"games-puzzle","contentType":"directory"},{"name":"games-roguelike","path":"games-roguelike","contentType":"directory"},{"name":"games-rpg","path":"games-rpg","contentType":"directory"},{"name":"games-server","path":"games-server","contentType":"directory"},{"name":"games-simulation","path":"games-simulation","contentType":"directory"},{"name":"games-sports","path":"games-sports","contentType":"directory"},{"name":"games-strategy","path":"games-strategy","contentType":"directory"},{"name":"games-util","path":"games-util","contentType":"directory"},{"name":"gnome-base","path":"gnome-base","contentType":"directory"},{"name":"gnome-extra","path":"gnome-extra","contentType":"directory"},{"name":"gnustep-apps","path":"gnustep-apps","contentType":"directory"},{"name":"gnustep-base","path":"gnustep-base","contentType":"directory"},{"name":"gnustep-libs","path":"gnustep-libs","contentType":"directory"},{"name":"java-virtuals","path":"java-virtuals","contentType":"directory"},{"name":"kde-apps","path":"kde-apps","contentType":"directory"},{"name":"kde-frameworks","path":"kde-frameworks","contentType":"directory"},{"name":"kde-misc","path":"kde-misc","contentType":"directory"},{"name":"kde-plasma","path":"kde-plasma","contentType":"directory"},{"name":"licenses","path":"licenses","contentType":"directory"},{"name":"lxde-base","path":"lxde-base","contentType":"directory"},{"name":"lxqt-base","path":"lxqt-base","contentType":"directory"},{"name":"mail-client","path":"mail-client","contentType":"directory"},{"name":"mail-filter","path":"mail-filter","contentType":"directory"},{"name":"mail-mta","path":"mail-mta","contentType":"directory"},{"name":"mate-base","path":"mate-base","contentType":"directory"},{"name":"mate-extra","path":"mate-extra","contentType":"directory"},{"name":"media-fonts","path":"media-fonts","contentType":"directory"},{"name":"media-gfx","path":"media-gfx","contentType":"directory"},{"name":"media-libs","path":"media-libs","contentType":"directory"},{"name":"media-plugins","path":"media-plugins","contentType":"directory"},{"name":"media-radio","path":"media-radio","contentType":"directory"},{"name":"media-sound","path":"media-sound","contentType":"directory"},{"name":"media-tv","path":"media-tv","contentType":"directory"},{"name":"media-video","path":"media-video","contentType":"directory"},{"name":"metadata","path":"metadata","contentType":"directory"},{"name":"net-analyzer","path":"net-analyzer","contentType":"directory"},{"name":"net-dialup","path":"net-dialup","contentType":"directory"},{"name":"net-dns","path":"net-dns","contentType":"directory"},{"name":"net-firewall","path":"net-firewall","contentType":"directory"},{"name":"net-fs","path":"net-fs","contentType":"directory"},{"name":"net-ftp","path":"net-ftp","contentType":"directory"},{"name":"net-im","path":"net-im","contentType":"directory"},{"name":"net-irc","path":"net-irc","contentType":"directory"},{"name":"net-libs","path":"net-libs","contentType":"directory"},{"name":"net-mail","path":"net-mail","contentType":"directory"},{"name":"net-misc","path":"net-misc","contentType":"directory"},{"name":"net-nds","path":"net-nds","contentType":"directory"},{"name":"net-news","path":"net-news","contentType":"directory"},{"name":"net-nntp","path":"net-nntp","contentType":"directory"},{"name":"net-p2p","path":"net-p2p","contentType":"directory"},{"name":"net-print","path":"net-print","contentType":"directory"},{"name":"net-proxy","path":"net-proxy","contentType":"directory"},{"name":"net-voip","path":"net-voip","contentType":"directory"},{"name":"net-vpn","path":"net-vpn","contentType":"directory"},{"name":"net-wireless","path":"net-wireless","contentType":"directory"},{"name":"perl-core","path":"perl-core","contentType":"directory"},{"name":"profiles","path":"profiles","contentType":"directory"},{"name":"ros-meta","path":"ros-meta","contentType":"directory"},{"name":"sci-astronomy","path":"sci-astronomy","contentType":"directory"},{"name":"sci-biology","path":"sci-biology","contentType":"directory"},{"name":"sci-calculators","path":"sci-calculators","contentType":"directory"},{"name":"sci-chemistry","path":"sci-chemistry","contentType":"directory"},{"name":"sci-electronics","path":"sci-electronics","contentType":"directory"},{"name":"sci-geosciences","path":"sci-geosciences","contentType":"directory"},{"name":"sci-libs","path":"sci-libs","contentType":"directory"},{"name":"sci-mathematics","path":"sci-mathematics","contentType":"directory"},{"name":"sci-misc","path":"sci-misc","contentType":"directory"},{"name":"sci-physics","path":"sci-physics","contentType":"directory"},{"name":"sci-visualization","path":"sci-visualization","contentType":"directory"},{"name":"scripts","path":"scripts","contentType":"directory"},{"name":"sec-policy","path":"sec-policy","contentType":"directory"},{"name":"sys-apps","path":"sys-apps","contentType":"directory"},{"name":"sys-auth","path":"sys-auth","contentType":"directory"},{"name":"sys-block","path":"sys-block","contentType":"directory"},{"name":"sys-boot","path":"sys-boot","contentType":"directory"},{"name":"sys-cluster","path":"sys-cluster","contentType":"directory"},{"name":"sys-devel","path":"sys-devel","contentType":"directory"},{"name":"sys-fabric","path":"sys-fabric","contentType":"directory"},{"name":"sys-firmware","path":"sys-firmware","contentType":"directory"},{"name":"sys-freebsd","path":"sys-freebsd","contentType":"directory"},{"name":"sys-fs","path":"sys-fs","contentType":"directory"},{"name":"sys-kernel","path":"sys-kernel","contentType":"directory"},{"name":"sys-libs","path":"sys-libs","contentType":"directory"},{"name":"sys-power","path":"sys-power","contentType":"directory"},{"name":"sys-process","path":"sys-process","contentType":"directory"},{"name":"virtual","path":"virtual","contentType":"directory"},{"name":"www-apache","path":"www-apache","contentType":"directory"},{"name":"www-apps","path":"www-apps","contentType":"directory"},{"name":"www-client","path":"www-client","contentType":"directory"},{"name":"www-misc","path":"www-misc","contentType":"directory"},{"name":"www-plugins","path":"www-plugins","contentType":"directory"},{"name":"www-servers","path":"www-servers","contentType":"directory"},{"name":"x11-apps","path":"x11-apps","contentType":"directory"},{"name":"x11-base","path":"x11-base","contentType":"directory"},{"name":"x11-drivers","path":"x11-drivers","contentType":"directory"},{"name":"x11-libs","path":"x11-libs","contentType":"directory"},{"name":"x11-misc","path":"x11-misc","contentType":"directory"},{"name":"x11-plugins","path":"x11-plugins","contentType":"directory"},{"name":"x11-proto","path":"x11-proto","contentType":"directory"},{"name":"x11-terms","path":"x11-terms","contentType":"directory"},{"name":"x11-themes","path":"x11-themes","contentType":"directory"},{"name":"x11-wm","path":"x11-wm","contentType":"directory"},{"name":"xfce-base","path":"xfce-base","contentType":"directory"},{"name":"xfce-extra","path":"xfce-extra","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"header.txt","path":"header.txt","contentType":"file"},{"name":"skel.ebuild","path":"skel.ebuild","contentType":"file"},{"name":"skel.metadata.xml","path":"skel.metadata.xml","contentType":"file"}],"totalCount":173}},"fileTreeProcessingTime":22.259636999999998,"foldersToFetch":[],"repo":{"id":40499714,"defaultBranch":"master","name":"gentoo","ownerLogin":"gentoo","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2015-08-10T18:47:32.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/52242?v=4","public":true,"private":false,"isOrgOwned":true},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"74e93c23a66b42b925e1dd3abea0bf1cb17e4230","listCacheKey":"v0:1682354601.0","canEdit":false,"refType":"tree","currentOid":"74e93c23a66b42b925e1dd3abea0bf1cb17e4230"},"path":"mail-client/nmh/metadata.xml","currentUser":null,"blob":{"rawLines":["\u003c?xml version=\"1.0\" encoding=\"UTF-8\"?\u003e","\u003c!DOCTYPE pkgmetadata SYSTEM \"http://www.gentoo.org/dtd/metadata.dtd\"\u003e","\u003cpkgmetadata\u003e","\t\u003cmaintainer type=\"project\"\u003e","\t\t\u003cemail\u003enet-mail@gentoo.org\u003c/email\u003e","\t\t\u003cname\u003eNet-Mail\u003c/name\u003e","\t\u003c/maintainer\u003e","\u003c/pkgmetadata\u003e"],"stylingDirectives":[[{"s":2,"e":5,"c":"pl-ent"},{"s":5,"e":13,"c":"pl-e"},{"s":14,"e":19,"c":"pl-s"},{"s":14,"e":15,"c":"pl-pds"},{"s":18,"e":19,"c":"pl-pds"},{"s":19,"e":28,"c":"pl-e"},{"s":29,"e":36,"c":"pl-s"},{"s":29,"e":30,"c":"pl-pds"},{"s":35,"e":36,"c":"pl-pds"}],[{"s":2,"e":9,"c":"pl-ent"},{"s":10,"e":21,"c":"pl-e"}],[{"s":1,"e":12,"c":"pl-ent"}],[{"s":2,"e":12,"c":"pl-ent"},{"s":13,"e":17,"c":"pl-e"},{"s":18,"e":27,"c":"pl-s"},{"s":18,"e":19,"c":"pl-pds"},{"s":26,"e":27,"c":"pl-pds"}],[{"s":3,"e":8,"c":"pl-ent"},{"s":30,"e":35,"c":"pl-ent"}],[{"s":3,"e":7,"c":"pl-ent"},{"s":18,"e":22,"c":"pl-ent"}],[{"s":3,"e":13,"c":"pl-ent"}],[{"s":2,"e":13,"c":"pl-ent"}]],"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/gentoo/gentoo/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"metadata.xml","displayUrl":"https://github.com/gentoo/gentoo/blob/74e93c23a66b42b925e1dd3abea0bf1cb17e4230/mail-client/nmh/metadata.xml?raw=true","headerInfo":{"blobSize":"244 Bytes","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":null,"isGitLfs":false,"onBranch":false,"shortPath":"1c3bc7b","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fgentoo%2Fgentoo%2Fblob%2F74e93c23a66b42b925e1dd3abea0bf1cb17e4230%2Fmail-client%2Fnmh%2Fmetadata.xml","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"8","truncatedSloc":"8"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":"XML","languageID":399,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/gentoo/gentoo/blob/74e93c23a66b42b925e1dd3abea0bf1cb17e4230/mail-client/nmh/metadata.xml","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/gentoo/gentoo/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/gentoo/gentoo/raw/74e93c23a66b42b925e1dd3abea0bf1cb17e4230/mail-client/nmh/metadata.xml","renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timed_out":false,"not_analyzed":true,"symbols":[]}},"copilotInfo":null,"copilotAccessAllowed":false,"modelsAccessAllowed":false,"csrf_tokens":{"/gentoo/gentoo/branches":{"post":"xyjVDyxYdajxIR3nHZG9P2EJuOu56YYnyr__7mQJEH-7vIKG4TOaIHk3KxoFCt79YBE4a1KKqHX0AOGgkTytbw"},"/repos/preferences":{"post":"FZUgf_uL8aB0rYEzZjLuVVINhJBd5jUGHnwX7myU90AR3Z5t1taQwdKfuXVTzUjMKiHWkNtfpcV7kwTL7PXf1g"}}},"title":"gentoo/mail-client/nmh/metadata.xml at 74e93c23a66b42b925e1dd3abea0bf1cb17e4230 · gentoo/gentoo","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-9f8a877aa99f.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-eb3d353f90ce.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"overview_shared_code_dropdown_button":false,"react_blob_overlay":false,"copilot_conversational_ux_embedding_update":false,"copilot_smell_icebreaker_ux":true,"accessible_code_button":true}}}</script>
   <div data-target="react-app.reactRoot"><style data-styled="true" data-styled-version="5.3.11">.hOfjFo{padding:0;}/*!sc*/
 .oDGAe{max-width:100%;margin-left:auto;margin-right:auto;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;}/*!sc*/
@@ -1915,7 +1915,7 @@ data-styled.g111[id="SegmentedControl__SegmentedControlList-sc-1rzig82-0"]{conte
           <footer class="footer pt-8 pb-6 f6 color-fg-muted p-responsive" role="contentinfo" >
   <h2 class='sr-only'>Footer</h2>
 
-  
+
 
 
   <div class="d-flex flex-justify-center flex-items-center flex-column-reverse flex-lg-row flex-wrap flex-lg-nowrap">
@@ -2061,4 +2061,3 @@ data-styled.g111[id="SegmentedControl__SegmentedControlList-sc-1rzig82-0"]{conte
     <div id="js-global-screen-reader-notice-assertive" class="sr-only mt-n1" aria-live="assertive" aria-atomic="true"></div>
   </body>
 </html>
-

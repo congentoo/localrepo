@@ -16,17 +16,17 @@ Only packages that don't fit into the above live here.
 
 ## Packages
 
-| Category | Packages |
-|----------|----------|
-| app-crypt | bit-babbler (TRNG USB hardware) |
-| app-office | upwork (binary RPM repackage, multiple versions) |
-| app-text | doxygen (custom LLVM_COMPAT) |
-| dev-python | rye |
-| dev-util | pygount, zk (Go zettelkasten tool) |
-| mail-client | nmh |
-| media-gfx | pix (photo viewer) |
-| net-irc | srain |
-| sys-power | dptfxtract |
+| Category    | Packages                                         |
+| ----------- | ------------------------------------------------ |
+| app-crypt   | bit-babbler (TRNG USB hardware)                  |
+| app-office  | upwork (binary RPM repackage, multiple versions) |
+| app-text    | doxygen (custom LLVM_COMPAT)                     |
+| dev-python  | rye                                              |
+| dev-util    | pygount, zk (Go zettelkasten tool)               |
+| mail-client | nmh                                              |
+| media-gfx   | pix (photo viewer)                               |
+| net-irc     | srain                                            |
+| sys-power   | dptfxtract                                       |
 
 ## Custom profile
 
