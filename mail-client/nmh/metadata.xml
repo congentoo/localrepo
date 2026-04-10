@@ -10,6 +10,6 @@
 		descended from the RAND MH message handling system.
 	</longdescription>
 	<upstream>
-		<remote-id type="github">nmh/nmh</remote-id>
+		<remote-id type="savannah-nongnu">nmh</remote-id>
 	</upstream>
 </pkgmetadata>
