@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>ivan@ivananishchuk.net</email>
+		<name>Ivan Anishchuk</name>
+	</maintainer>
+	<upstream>
+		<maintainer>
+			<email>ron@debian.org</email>
+			<name>Ron Lee</name>
+		</maintainer>
+		<bugs-to>http://www.bitbabbler.org/</bugs-to>
+	</upstream>
+	<use>
+		<flag name="udev">Enable udev support for device detection</flag>
+	</use>
+</pkgmetadata>
