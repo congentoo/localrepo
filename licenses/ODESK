@@ -1,0 +1,8 @@
+Proprietary Upwork (formerly oDesk) desktop application license.
+
+The Upwork desktop application is a closed-source binary distributed by
+Upwork Global Inc. under their Terms of Service. This ebuild repackages
+the upstream binary RPM for convenience and does not grant any rights
+beyond what the upstream license permits.
+
+Full terms: https://www.upwork.com/legal

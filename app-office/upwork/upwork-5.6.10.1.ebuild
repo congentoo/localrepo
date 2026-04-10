@@ -8,19 +8,18 @@ inherit desktop pax-utils rpm xdg-utils
 DESCRIPTION="Project collaboration and tracking software for upwork.com"
 HOMEPAGE="https://www.upwork.com/"
 SRC_URI="
-	amd64? ( https://upwork-usw2-desktopapp.upwork.com/binaries/v5_6_10_1_de501d28cc034306/upwork-5.6.10.1-1fc24.x86_64.rpm -> ${P}_x86_64.rpm )
-	x86? ( https://upwork-usw2-desktopapp.upwork.com/binaries/v5_6_10_1_de501d28cc034306/upwork-5.6.10.1-1fc24.i386.rpm -> ${P}_i386.rpm )"
+	https://upwork-usw2-desktopapp.upwork.com/binaries/v5_6_10_1_de501d28cc034306/upwork-5.6.10.1-1fc24.x86_64.rpm -> ${P}_x86_64.rpm"
 
 LICENSE="ODESK"
 SLOT="0"
-KEYWORDS="~amd64 ~x86"
+KEYWORDS="~amd64"
 RESTRICT="bindist mirror"
 
 RDEPEND="
 	dev-libs/expat
 	dev-libs/nspr
 	dev-libs/nss
-	gnome-base/gconf
+	# gnome-base/gconf  # removed from tree
 	media-libs/alsa-lib
 	media-libs/freetype
 	sys-apps/dbus

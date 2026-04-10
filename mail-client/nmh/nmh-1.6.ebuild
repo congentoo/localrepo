@@ -9,7 +9,7 @@ SRC_URI="https://savannah.nongnu.org/download/nmh/${P}.tar.gz"
 
 LICENSE="BSD"
 SLOT="0"
-KEYWORDS="~amd64 ~x86 ~amd64-linux"
+KEYWORDS="~amd64"
 IUSE="gdbm readline sasl ssl"
 
 # bug 295996: media-gfx/pixie also uses show

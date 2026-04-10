@@ -12,7 +12,7 @@ SRC_URI="https://github.com/linuxmint/${PN}/archive/refs/tags/${PV}.tar.gz"
 
 LICENSE="GPL-2+"
 SLOT="0"
-KEYWORDS="amd64 ~arm ~arm64 ~ppc ~ppc64 ~x86 ~amd64-linux ~x86-linux"
+KEYWORDS="amd64"
 IUSE="cdr colord exif keyring gstreamer heif jpegxl lcms raw slideshow svg tiff webkit webp"
 
 # libX11 dep is a workaround. See files/3.12.2-link-with-x11.patch
@@ -37,7 +37,7 @@ RDEPEND="
 	webkit? (
 		>=net-libs/libsoup-2.42.0:2.4
 		>=dev-libs/json-glib-0.15.0
-		>=net-libs/webkit-gtk-1.10.0:4
+		net-libs/webkit-gtk:4.1
 	)
 	keyring? ( >=app-crypt/libsecret-0.11 )
 	cdr? ( >=app-cdr/brasero-3.2.0 )

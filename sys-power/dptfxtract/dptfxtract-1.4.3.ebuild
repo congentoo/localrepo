@@ -9,7 +9,7 @@ SRC_URI="https://github.com/intel/dptfxtract/archive/v${PV}.tar.gz -> ${P}.tar.g
 
 LICENSE="binary"
 SLOT="0"
-KEYWORDS="~amd64 ~x86"
+KEYWORDS="~amd64"
 IUSE=""  # could be static, prbly
 
 DEPEND="sys-power/thermald"

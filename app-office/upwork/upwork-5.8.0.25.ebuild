@@ -10,8 +10,7 @@ HOMEPAGE="https://www.upwork.com/"
 HASH="e119f6b95355474f"
 BUILD="1fc24"
 SRC_URI="
-	amd64? ( https://upwork-usw2-desktopapp.upwork.com/binaries/v${PV//./_}_${HASH}/${P}-${BUILD}.x86_64.rpm -> ${P}_x86_64.rpm )
-	x86? ( https://upwork-usw2-desktopapp.upwork.com/binaries/v${PV//./_}_${HASH}/${P}-${BUILD}.i386.rpm -> ${P}_i386.rpm )"
+	https://upwork-usw2-desktopapp.upwork.com/binaries/v${PV//./_}_${HASH}/${P}-${BUILD}.x86_64.rpm -> ${P}_x86_64.rpm"
 # FIXME: requires custom fetchcommand
 #USER_AGENT="Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0"
 #FETCHCOMMAND="wget -v --user-agent=\"${USER_AGENT}\" -t 3 -T 60 --passive-ftp -O \"\${DISTDIR}/\${FILE}\" \"\${URI}\""
@@ -20,14 +19,14 @@ SRC_URI="
 
 LICENSE="ODESK"
 SLOT="0"
-KEYWORDS="~amd64 ~x86"
+KEYWORDS="~amd64"
 RESTRICT="bindist mirror"
 
 RDEPEND="
 	dev-libs/expat
 	dev-libs/nspr
 	dev-libs/nss
-	gnome-base/gconf
+	# gnome-base/gconf  # removed from tree
 	media-libs/alsa-lib
 	media-libs/freetype
 	sys-apps/dbus

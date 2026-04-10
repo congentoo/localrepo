@@ -1,0 +1,6 @@
+Generic binary redistribution placeholder.
+
+Used for ebuilds that install pre-built binaries whose upstream license
+does not match any recognized Gentoo license name but is redistributable
+for personal use. Consult the individual ebuild's HOMEPAGE for the
+upstream terms.

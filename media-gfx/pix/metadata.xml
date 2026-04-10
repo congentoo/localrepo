@@ -5,11 +5,10 @@
 		<email>ivan@ivananishchuk.net</email>
 		<name>Ivan Anishchuk</name>
 	</maintainer>
-	<longdescription lang="en">
-		nmh is a command-line based electronic mail handling system,
-		descended from the RAND MH message handling system.
-	</longdescription>
+	<use>
+		<flag name="slideshow">Enable slideshow support via media-libs/clutter</flag>
+	</use>
 	<upstream>
-		<remote-id type="github">nmh/nmh</remote-id>
+		<remote-id type="github">linuxmint/pix</remote-id>
 	</upstream>
 </pkgmetadata>
