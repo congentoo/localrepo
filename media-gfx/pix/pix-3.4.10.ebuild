@@ -2,7 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 # fork based on gThumb 3.12.2 (I hear) built expirementally using copied and modified ebuild
 EAPI=8
-PYTHON_COMPAT=( python3_{10..13} )
+PYTHON_COMPAT=( python3_{10..14} )
 inherit gnome.org gnome2-utils meson python-any-r1 xdg
 
 DESCRIPTION="An image viewer and browser utility. Fork of gThumb"
