@@ -9,5 +9,5 @@ LICENSE=ODESK
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://upwork-usw2-desktopapp.upwork.com/binaries/v5_8_0_33_42e992f623e44665/upwork-5.8.0.33-1fc24.x86_64.rpm -> upwork-5.8.0.33_p130084_x86_64.rpm
-_eclasses_=desktop	26d57169ca094c04be416993844ec8bc	pax-utils	5555f2e75744739fe100ee62c22d28fe	rpm	7f6c39764471c4b515dd9cc5b7754c9c	eapi9-pipestatus	d2c134036ac31c3085aebc9147f572bd	estack	c61c368a76fdf3a82fdf8dbaebea3804	xdg-utils	42869b3c8d86a70ef3cf75165a395e09
-_md5_=4485140dc404378e2ab8ff7959d2f4b3
+_eclasses_=desktop	26d57169ca094c04be416993844ec8bc	pax-utils	5555f2e75744739fe100ee62c22d28fe	eapi9-pipestatus	d2c134036ac31c3085aebc9147f572bd	estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7f6c39764471c4b515dd9cc5b7754c9c	xdg-utils	42869b3c8d86a70ef3cf75165a395e09
+_md5_=386b63ddff47f118bbef314d23478466
