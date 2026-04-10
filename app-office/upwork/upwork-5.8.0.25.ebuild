@@ -26,7 +26,6 @@ RDEPEND="
 	dev-libs/expat
 	dev-libs/nspr
 	dev-libs/nss
-	# gnome-base/gconf  # removed from tree
 	media-libs/alsa-lib
 	media-libs/freetype
 	sys-apps/dbus
