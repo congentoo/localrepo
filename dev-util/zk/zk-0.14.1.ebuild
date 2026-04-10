@@ -1,22 +1,26 @@
-# Copyright 1999-2021 Gentoo Authors
+# Copyright 1999-2026 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=7
+EAPI=8
 
-EGO_PN="github.com/zk-org/zk"
-ARCHIVE_URI="https://github.com/zk-org/${PN}/archive/refs/tags/v${PV}.tar.gz -> ${P}.tar.gz
-https://github.com/dummy_org/zk/${PN}-0.14.1-vendor.tar.xz"
-inherit golang-build golang-vcs-snapshot go-module
+inherit go-module
 
 DESCRIPTION="Personal wiki language server"
 HOMEPAGE="https://github.com/zk-org/zk"
-SRC_URI="${ARCHIVE_URI}"
+SRC_URI="
+	https://github.com/zk-org/${PN}/archive/refs/tags/v${PV}.tar.gz -> ${P}.tar.gz
+	https://github.com/zk-org/${PN}/releases/download/v${PV}/${P}-vendor.tar.xz
+"
 
 LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS="~amd64"
 
+src_compile() {
+	ego build -o ${PN} .
+}
+
 src_install() {
-	golang-build_src_install
-	dodoc src/${EGO_PN}/*.md
+	dobin ${PN}
+	dodoc *.md
 }

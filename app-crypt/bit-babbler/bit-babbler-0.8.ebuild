@@ -3,7 +3,7 @@
 
 EAPI=7
 
-DESCRIPTION=""
+DESCRIPTION="Tools for BitBabbler hardware true random number generator devices"
 HOMEPAGE="http://www.bitbabbler.org/"
 SRC_URI="http://www.bitbabbler.org/downloads/${PN}_${PV}.tar.gz"
 
@@ -13,4 +13,3 @@ KEYWORDS="~amd64"
 
 DEPEND="virtual/libusb:1"
 RDEPEND="${DEPEND}"
-BDEPEND=""

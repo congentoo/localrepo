@@ -19,7 +19,6 @@ SRC_URI="https://upwork-usw2-desktopapp.upwork.com/binaries/v${MY_PV//./_}_${HAS
 #FETCHCOMMAND="wget -v --user-agent=\"${USER_AGENT}\" -t 3 -T 60 --passive-ftp -O \"\${DISTDIR}/\${FILE}\" \"\${URI}\""
 #RESUMECOMMAND="wget -v --user-agent=\"${USER_AGENT}\" -c -t 3 -T 60 --passive-ftp -O \"\${DISTDIR}/\${FILE}\" \"\${URI}\""
 
-
 LICENSE="ODESK"
 SLOT="0"
 KEYWORDS="~amd64"
@@ -38,8 +37,7 @@ RESTRICT="bindist mirror"
 #	x11-libs/libXtst
 #	x11-libs/gtk+:3[cups]
 #	gnome-base/gconf
-RDEPEND="
-"
+RDEPEND=""
 
 S="${WORKDIR}"
 

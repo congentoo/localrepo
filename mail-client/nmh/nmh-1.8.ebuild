@@ -12,9 +12,7 @@ SLOT="0"
 KEYWORDS="~amd64"
 IUSE="gdbm readline sasl ssl"
 
-# bug 295996: media-gfx/pixie also uses show
 # bug 631662: sys-apps/pick also uses pick
-# bug 555550: sci-mathematics/snns also uses scan
 DEPEND="gdbm? ( sys-libs/gdbm )
 	!gdbm? ( sys-libs/db:= )
 	>=sys-libs/ncurses-5.2:0=
@@ -22,9 +20,7 @@ DEPEND="gdbm? ( sys-libs/gdbm )
 	readline? ( sys-libs/readline:0= )
 	sasl? ( dev-libs/cyrus-sasl )
 	ssl? ( dev-libs/openssl:0= )
-	!!media-gfx/pixie
 	!!sys-apps/pick
-	!!sci-mathematics/snns
 "
 RDEPEND="${DEPEND}
 	virtual/editor
