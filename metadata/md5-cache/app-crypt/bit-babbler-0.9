@@ -1,0 +1,15 @@
+BDEPEND=virtual/pkgconfig verify-sig? ( sec-keys/openpgp-keys-bitbabbler ) verify-sig? ( || ( app-alternatives/gpg app-crypt/gnupg[-alternatives(-)] ) >=app-portage/gemato-20 )
+DEFINED_PHASES=unpack
+DEPEND=virtual/libusb:1 udev? ( virtual/libudev )
+DESCRIPTION=Tools for BitBabbler hardware true random number generator devices
+EAPI=8
+HOMEPAGE=http://www.bitbabbler.org/
+INHERIT=verify-sig
+IUSE=udev verify-sig
+KEYWORDS=~amd64
+LICENSE=GPL-2
+RDEPEND=virtual/libusb:1 udev? ( virtual/libudev )
+SLOT=0
+SRC_URI=http://www.bitbabbler.org/downloads/bit-babbler_0.9.tar.gz verify-sig? ( http://www.bitbabbler.org/downloads/bit-babbler_0.9.tar.gz.asc )
+_eclasses_=eapi9-pipestatus	d2c134036ac31c3085aebc9147f572bd	verify-sig	ece4c893b6bd62eacbc4d25958e857f8
+_md5_=dfc075b604ee2761bcbd7895088d6010

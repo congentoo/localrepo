@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=OpenPGP keys used to sign BitBabbler releases
+EAPI=8
+HOMEPAGE=http://www.bitbabbler.org/
+KEYWORDS=~amd64
+LICENSE=public-domain
+SLOT=0
+SRC_URI=https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x8eaf735424339dddfe835628125831ae66e70556 -> openpgp-keys-bitbabbler-20211027-8EAF735424339DDDFE835628125831AE66E70556.asc
+_md5_=250c2f89786e95cc1b50b4fd5b8a66d7
