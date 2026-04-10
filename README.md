@@ -8,9 +8,10 @@ version bumps, divergent versions, and a custom profile.
 This is the main "catch-all" personal overlay. Narrower-scope packages
 have been moved to dedicated overlays:
 
-- **llvm15/** — LLVM 15 toolchain + legacy Intel GPU OpenCL stack
-- **llvm14/** — LLVM 14 toolchain (sibling of llvm15)
-- **aws/** — AWS CRT Python bindings and dependency bumps
+- [**llvm15**](https://github.com/congentoo/llvm15) — LLVM 15 toolchain
+  + legacy Intel GPU OpenCL stack
+- [**llvm14**](https://github.com/congentoo/llvm14) — LLVM 14 toolchain
+  (sibling of llvm15)
 
 Only packages that don't fit into the above live here.
 
@@ -45,11 +46,25 @@ desktop USE flags.
 Some packages in this overlay track bleeding-edge or divergent versions
 from the main tree. See individual package metadata.xml for details.
 
+## Enabling the overlay
+
+```ini
+# /etc/portage/repos.conf/localrepo.conf
+[localrepo]
+location = /var/db/repos/localrepo
+sync-type = git
+sync-uri = https://github.com/congentoo/localrepo.git
+auto-sync = yes
+```
+
+Then: `emerge --sync localrepo`.
+
 ## Related overlays
 
-- llvm15, llvm14, aws (see above)
-- etc-portage — system portage config (this repo's neighbor)
+- [llvm15](https://github.com/congentoo/llvm15),
+  [llvm14](https://github.com/congentoo/llvm14) (see above)
 
 ## Development
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the maintenance workflow.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the maintenance workflow and
+[SECURITY.md](SECURITY.md) for the security policy.

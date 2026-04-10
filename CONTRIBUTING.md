@@ -41,7 +41,8 @@
 This is the "catch-all" personal overlay. Before adding a package here,
 consider:
 
-- Is there a more specific overlay? (llvm15, llvm14, aws, etc.)
+- Is there a more specific overlay? ([llvm15](https://github.com/congentoo/llvm15),
+  [llvm14](https://github.com/congentoo/llvm14), etc.)
 - Does the main Gentoo tree already have this package at an acceptable version?
 - Would a GURU overlay submission be more appropriate?
 
