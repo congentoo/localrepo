@@ -1,12 +1,14 @@
-DEFINED_PHASES=configure
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=configure unpack
 DEPEND=gdbm? ( sys-libs/gdbm ) !gdbm? ( sys-libs/db:= ) >=sys-libs/ncurses-5.2:0= net-libs/liblockfile readline? ( sys-libs/readline:0= ) sasl? ( dev-libs/cyrus-sasl ) ssl? ( dev-libs/openssl:0= )
 DESCRIPTION=New MH mail reader
 EAPI=8
 HOMEPAGE=http://www.nongnu.org/nmh/
+INHERIT=git-r3
 IUSE=gdbm readline sasl ssl
-KEYWORDS=~amd64
 LICENSE=BSD
+PROPERTIES=live
 RDEPEND=gdbm? ( sys-libs/gdbm ) !gdbm? ( sys-libs/db:= ) >=sys-libs/ncurses-5.2:0= net-libs/liblockfile readline? ( sys-libs/readline:0= ) sasl? ( dev-libs/cyrus-sasl ) ssl? ( dev-libs/openssl:0= ) virtual/editor virtual/pager !!sys-apps/pick
 SLOT=0
-SRC_URI=https://savannah.nongnu.org/download/nmh/nmh-1.6.tar.gz
-_md5_=b408918cae5df5c9154c8bd0bc08a84c
+_eclasses_=git-r3	7b584b5dc33e3bc66ff5b9271bf41764
+_md5_=bca5afa8006ae2fcaac3b21ab290c779

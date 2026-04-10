@@ -1,26 +1,23 @@
-# Copyright 1999-2017 Gentoo Foundation
+# Copyright 1999-2026 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=6
+EAPI=8
 
 DESCRIPTION="New MH mail reader"
 HOMEPAGE="http://www.nongnu.org/nmh/"
 if [[ ${PV} == *9999 ]]; then
 	inherit git-r3
-	EGIT_REPO_URI="https://git.sr.ht/~rjarry/aerc"
+	EGIT_REPO_URI="https://git.savannah.nongnu.org/git/nmh.git/"
 else
 	SRC_URI="https://savannah.nongnu.org/download/nmh/${P}.tar.gz"
 	KEYWORDS="~amd64"
 fi
 
-
 LICENSE="BSD"
 SLOT="0"
 IUSE="gdbm readline sasl ssl"
 
-# bug 295996: media-gfx/pixie also uses show
 # bug 631662: sys-apps/pick also uses pick
-# bug 555550: sci-mathematics/snns also uses scan
 DEPEND="gdbm? ( sys-libs/gdbm )
 	!gdbm? ( sys-libs/db:= )
 	>=sys-libs/ncurses-5.2:0=
@@ -28,31 +25,16 @@ DEPEND="gdbm? ( sys-libs/gdbm )
 	readline? ( sys-libs/readline:0= )
 	sasl? ( dev-libs/cyrus-sasl )
 	ssl? ( dev-libs/openssl:0= )
-	!!media-gfx/pixie
-	!!sys-apps/pick
-	!!sci-mathematics/snns
 "
 RDEPEND="${DEPEND}
 	virtual/editor
 	virtual/pager
+	!!sys-apps/pick
 "
 
 DOCS=( ChangeLog DATE MACHINES README )
 
-PATCHES=(
-	# bug #57886
-	"${FILESDIR}"/${P}-m_getfld.patch
-	# bug #319937
-	"${FILESDIR}"/${PN}-1.3-db5.patch
-)
-
 src_configure() {
-	# Bug 348816 & Bug 341741: The previous ebuild default of
-	# /usr/bin caused unnecessary conflicts with other
-	# packages. However, the default nmh libdir location causes
-	# problems with cross-compiling, so we use, eg., /usr/lib64.
-	# Users may use /usr/lib/nmh in scripts needing these support
-	# programs in normal environments.
 	local myconf=(
 		--prefix="${EPREFIX}"/usr
 		--libdir="${EPREFIX}"/usr/$(get_libdir)/nmh
@@ -63,7 +45,6 @@ src_configure() {
 		$(use_with readline)
 	)
 
-	# have gdbm use flag actually control which version of db in use
 	if use gdbm; then
 		myconf+=( --with-ndbmheader=gdbm/ndbm.h --with-ndbm=gdbm_compat )
 	else

@@ -1,7 +1,7 @@
-# Copyright 1999-2024 Gentoo Foundation
+# Copyright 1999-2026 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=6
+EAPI=8
 
 DESCRIPTION="New MH mail reader"
 HOMEPAGE="http://www.nongnu.org/nmh/"
@@ -20,11 +20,11 @@ DEPEND="gdbm? ( sys-libs/gdbm )
 	readline? ( sys-libs/readline:0= )
 	sasl? ( dev-libs/cyrus-sasl )
 	ssl? ( dev-libs/openssl:0= )
-	!!sys-apps/pick
 "
 RDEPEND="${DEPEND}
 	virtual/editor
 	virtual/pager
+	!!sys-apps/pick
 "
 
 DOCS=( ChangeLog DATE MACHINES README )
