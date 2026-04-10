@@ -9,7 +9,7 @@ This is the main "catch-all" personal overlay. Narrower-scope packages
 have been moved to dedicated overlays:
 
 - [**llvm15**](https://github.com/congentoo/llvm15) — LLVM 15 toolchain
-  + legacy Intel GPU OpenCL stack
+  - legacy Intel GPU OpenCL stack
 - [**llvm14**](https://github.com/congentoo/llvm14) — LLVM 14 toolchain
   (sibling of llvm15)
 
